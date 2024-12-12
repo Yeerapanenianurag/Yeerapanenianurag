@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anurag</h1>
 <h3 align="center">Highly motivated and technically skilled individual with a demonstrated proficiency in research and development projects as an intern and proficient at working effectively unsupervised and quickly mastering new skills</h3>
-<img align="right" alt="https://png.pngtree.com/png-clipart/20240112/original/pngtree-3d-programmer-computer-character-cartoon-three-dimensional-cute-profession-png-image_14088797.png">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yeerapanenianurag&label=Profile%20views&color=0e75b6&style=flat" alt="yeerapanenianurag" /> </p>
+<img align="right" alt+"coding" width="400" src=
+<p align="left"> <img src=https://png.pngtree.com/png-clipart/20240112/original/pngtree-3d-programmer-computer-character-cartoon-three-dimensional-cute-profession-png-image_14088797.png">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeerapanenianurag" alt="yeerapanenianurag" /></a> </p>
 
