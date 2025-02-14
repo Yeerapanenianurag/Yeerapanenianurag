@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeerapanenianurag" alt="yeerapanenianurag" /></a> </p>
 
-- 🔭 I’m currently working on **CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer**
+- 🔭 I’m currently working on **An ML based skill gap analysis and job detection system **
 
 - 🌱 I’m currently learning **AWS,DSA**
 
