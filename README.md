@@ -13,10 +13,6 @@
 
 - 📫 How to reach me **anuragyeerapaneni@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KUzLBWP6Tq54yglSzM6fQs5KFwdYo7Se/view?usp=sharing](https://drive.google.com/file/d/1KUzLBWP6Tq54yglSzM6fQs5KFwdYo7Se/view?usp=sharing)
-
-- ⚡ Fun fact **Innovativation & Money**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/anuragg_y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anuragg_y" height="30" width="40" /></a>
