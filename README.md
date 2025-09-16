@@ -9,7 +9,7 @@
 
 ### 🌟 About Me  
 - 🌱 I’m currently learning **AWS & DSA**  
-- 💬 Ask me about **PowerBI, Python, PRAAT**  
+- 💬 Ask me about **Django,REST, Python, PRAAT**  
 - 📫 Reach me at **anuragyeerapaneni@gmail.com**  
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1KUzLBWP6Tq54yglSzM6fQs5KFwdYo7Se/view?usp=sharing)  
 - ⚡ Fun fact: **Innovation & Money drive me**  
