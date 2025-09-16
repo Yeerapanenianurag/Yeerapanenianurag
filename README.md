@@ -84,7 +84,7 @@
 
 <div align="center">
     
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/Yeerapanenianurag/Yeerapanenianurag/blob/output/github-snake-dark.svg)
 </div>
 ---
 
