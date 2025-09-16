@@ -82,9 +82,10 @@
 
 ---
 
-### 🐍 Fun Touch  
-<img src="https://raw.githubusercontent.com/Yeerapanenianurag/Yeerapanenianurag/output/snake.svg" alt="Snake animation" />
-
+<div align="center">
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
 ---
 
 ### ☕ Support Me  
